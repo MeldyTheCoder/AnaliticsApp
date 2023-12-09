@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "size": "Large",
+        "price": 22343
+    },
+    {
+        "id": 2,
+        "size": "Medium",
+        "price": 24242424
+    },
+    {
+        "id": 3,
+        "size": "Tiny",
+        "price": 0
+    }
+]
